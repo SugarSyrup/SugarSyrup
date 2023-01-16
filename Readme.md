@@ -12,13 +12,14 @@ Here are some ideas to get you  started:
 - 📫 How to reach me: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=#E3ACF9&height=200&section=header&text=Hello&desc=I'm%20SugarSyrup%20JongJin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#E3ACF9&height=200&section=header&text=Hello&desc=I'm%20SugarSyrup&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align=center>
 <!--소개-->
 
 ## Introduction :raised_hands:
-FrontEnd Developer JongJin(SugarSyrup) 🦋
+프론트 엔드 개발자 김종진 입니다!
+FrontEnd Developer SugarSyrup!🦋
 <br/><br/>
  
  
