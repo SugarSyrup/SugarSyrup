@@ -17,7 +17,7 @@ Here are some ideas to get you  started:
 <div align=center>
 <!--소개-->
  
-프론트 엔드 개발자 김종진 입니다!
+<strong> 프론트엔드 개발자, 김종진 입니다! </strong> 
 <br/>
 FrontEnd Developer SugarSyrup!🦋
 <br/><br/>
