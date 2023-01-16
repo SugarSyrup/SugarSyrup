@@ -19,6 +19,7 @@ Here are some ideas to get you  started:
 
 ## Introduction :raised_hands:
 프론트 엔드 개발자 김종진 입니다!
+<br/>
 FrontEnd Developer SugarSyrup!🦋
 <br/><br/>
  
