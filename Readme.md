@@ -24,7 +24,7 @@ FrontEnd Developer SugarSyrup!🦋
  
  
  <!--기술스택-->
-  ## Skill :four_leaf_clover:
+  <strong> Skill :four_leaf_clover: </strong>
 
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -46,7 +46,7 @@ FrontEnd Developer SugarSyrup!🦋
   
  <!--공부중 -->
  
-  ## Studying :pencil2: 
+  <strong> Studying :pencil2: </strong> 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
