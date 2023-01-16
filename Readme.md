@@ -47,6 +47,8 @@ FrontEnd Developer SugarSyrup!🦋
  <!--공부중 -->
  
   <strong> Studying :pencil2: </strong> 
+ 
+ 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
