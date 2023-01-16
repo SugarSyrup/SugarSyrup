@@ -16,8 +16,7 @@ Here are some ideas to get you  started:
 
 <div align=center>
 <!--소개-->
-
-## Introduction :raised_hands:
+ 
 프론트 엔드 개발자 김종진 입니다!
 <br/>
 FrontEnd Developer SugarSyrup!🦋
