@@ -19,7 +19,7 @@ Here are some ideas to get you  started:
  
 <strong> 웹 프론트엔드 개발자, 김종진 입니다! </strong> 
 <br/>
-Web FrontEnd Developer SugarSyrup!🦋
+Web FrontEnd Developer!🦋
 <br/><br/>
  
  
