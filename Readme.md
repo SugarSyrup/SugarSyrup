@@ -55,7 +55,6 @@ Web FrontEnd Developer!🦋
  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
   <!--백-->
   <br/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
  <!--언어 및 툴 --> <br/>
 
  <br/>
