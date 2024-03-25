@@ -32,10 +32,6 @@ Web FrontEnd Developer!🦋
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-   <br/>
-  <!--백-->
-   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
   <br/>
   <!--번들러 -->
    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
